@@ -12,3 +12,8 @@ Note: Google Test filter = sjpark_Lessons_12906.*
 
 # Level 1
 ## [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) : stack
+- [sjpark 완료](/programmers.co.kr/lessons_12906/sjpark.cpp)
+
+# Level 2
+## [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) : stack
+- [sjpark 완료](/programmers.co.kr/lessons_12909/sjpark.cpp)
