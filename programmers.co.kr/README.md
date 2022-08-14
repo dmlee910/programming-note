@@ -17,3 +17,6 @@ Note: Google Test filter = sjpark_Lessons_12906.*
 # Level 2
 ## [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) : stack
 - [sjpark 완료](/programmers.co.kr/lessons_12909/sjpark.cpp)
+
+## [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) : stack
+- [sjpark 완료](/programmers.co.kr/lessons_42586/sjpark.cpp)
